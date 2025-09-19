@@ -54,11 +54,11 @@ if (randomNumber2 === 6) {
 
 
 if (randomNumber1 > randomNumber2) {
-    document.querySelector("h1").innerHTML ="🚩 Player 1 wins!";
+    document.querySelector("h1").innerHTML ="🚩 You win!";
 }
 
  else if (randomNumber1 < randomNumber2) {
-    document.querySelector("h1").innerHTML ="Player 2 wins! 🚩";
+    document.querySelector("h1").innerHTML ="I win! 🚩";
 }
 
 else {
