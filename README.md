@@ -2,7 +2,7 @@
 
 A simple dice game project built while learning web development.
 
-Try it here: [Drum Kit Live](https://lin-lae.github.io/dice-game/) 
+Try it here: [Dice game Live](https://lin-lae.github.io/dice-game/) 
 
 ## 🆕 Improvement i made
 Unlike in the original course version (which rolls dice on page refresh), my version has a **Start button** when you click it, the dice roll using `addEventListener`. 
